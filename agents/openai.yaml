@@ -1,0 +1,3 @@
+display_name: X Topic Blogger Pack
+short_description: 按主题生成 X 博主推荐文案和真实头像信息图
+default_prompt: 输入一个主题，例如 AI相关、AI知识付费、一人公司，生成 8-10 个中文 X 博主推荐、可发 X 文案和带真实头像的信息图。
