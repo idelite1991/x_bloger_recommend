@@ -1,0 +1,78 @@
+{
+  "topic": "AI相关",
+  "title": "中文 AI 圈，先订阅这 10 个博主",
+  "subtitle": "用户名 + 定位一次给全，按领域订阅，快速搭好你的 AI 信息源",
+  "footer": "订阅建议：先关注，再分组；每天刷 15 分钟，顺手在评论区补充实测、避坑和落地步骤。",
+  "accounts": [
+    {
+      "handle": "@oran_ge",
+      "title": "AI Agent 与产品落地",
+      "desc": "订阅他，看 Agent 怎么从 demo 变成可用产品。",
+      "tag": "AI Agent",
+      "tone": "lime"
+    },
+    {
+      "handle": "@dotey",
+      "title": "Prompt 与 AI 工程",
+      "desc": "订阅他，补 Prompt、AI 工程和技术判断基本功。",
+      "tag": "Prompt",
+      "tone": "violet"
+    },
+    {
+      "handle": "@vista8",
+      "title": "AI 资讯与产品解读",
+      "desc": "订阅他，追 AI 热点，也看新工具背后的逻辑。",
+      "tag": "AI News",
+      "tone": "blue"
+    },
+    {
+      "handle": "@op7418",
+      "title": "AIGC 图像与视频",
+      "desc": "订阅他，看图像、视频、创作工具和案例玩法。",
+      "tag": "AIGC",
+      "tone": "pink"
+    },
+    {
+      "handle": "@xiaohu",
+      "title": "AI 工具快讯",
+      "desc": "订阅他，第一时间发现新产品和工具趋势。",
+      "tag": "Tools",
+      "tone": "cyan"
+    },
+    {
+      "handle": "@Gorden_sun",
+      "title": "AI 日报与工具整理",
+      "desc": "订阅他，用高密度信息快速扫一遍 AI 圈动态。",
+      "tag": "AI Daily",
+      "tone": "amber"
+    },
+    {
+      "handle": "@lxfater",
+      "title": "AI 产品与独立开发",
+      "desc": "订阅他，看产品拆解、实操和开发者工作流。",
+      "tag": "Indie Dev",
+      "tone": "green"
+    },
+    {
+      "handle": "@pandatalk8",
+      "title": "AI 商业化与个人 IP",
+      "desc": "订阅他，看 AI 如何做内容、变现和增长。",
+      "tag": "AI Business",
+      "tone": "orange"
+    },
+    {
+      "handle": "@cydiar404",
+      "title": "AI 创业与产品观察",
+      "desc": "订阅他，看趋势判断、产品机会和创业思路。",
+      "tag": "Startup",
+      "tone": "red"
+    },
+    {
+      "handle": "@gefei55",
+      "title": "SEO、AI 出海与工具站",
+      "desc": "订阅他，看流量、工具站、SEO 和出海增长。",
+      "tag": "SEO / Global",
+      "tone": "teal"
+    }
+  ]
+}
